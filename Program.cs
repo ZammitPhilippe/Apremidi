@@ -11,7 +11,7 @@ namespace Apremidi
         static void Main(string[] args)
         {
             Console.WriteLine("coucou, c'est du jus");
-            Console.WriteLine("Je sais pas");
+            Console.WriteLine("Je sais pas quoi");
         }
     }
 }
